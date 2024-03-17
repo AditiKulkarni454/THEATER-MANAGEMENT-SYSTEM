@@ -4,7 +4,6 @@
 </h1>
 
 <h5 align="center">A comprehensive theatre management and ticket booking system</h5>
-<h6 align="center">Written during my 5th semester BE for a course specified mini project in Database Management Systems (DBMS).</h6>
 
 ## 
 
@@ -24,9 +23,6 @@ All HTTP requests to Flask are made via encrypted POST messages. The system is d
 <img src="/art/2.gif?raw=true"/>
 <img src="/art/3.gif?raw=true"/>
 
-## Documentation
-
- ####  [Project report and manual](https://docs.google.com/document/d/1FM910xSRuvSdctJPRQz1x_DkcXHST_NvCTRobD6exUI/edit?usp=sharing)
 
 <br />
 
